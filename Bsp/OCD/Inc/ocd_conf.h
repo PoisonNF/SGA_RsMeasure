@@ -4,7 +4,8 @@
 #include "drv_hal.h"
 
 /* OCD层头文件包含区 */
-
+#include "ocd_ads1256.h"
+#include "ocd_ds3231.h"
 
 #endif
 

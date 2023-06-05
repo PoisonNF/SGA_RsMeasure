@@ -422,6 +422,36 @@
               <FileType>1</FileType>
               <FilePath>..\Apply\Task\Src\task_userinit.c</FilePath>
             </File>
+            <File>
+              <FileName>task_curcontrol.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_curcontrol.c</FilePath>
+            </File>
+            <File>
+              <FileName>task_ds3231.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_ds3231.c</FilePath>
+            </File>
+            <File>
+              <FileName>task_measure.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_measure.c</FilePath>
+            </File>
+            <File>
+              <FileName>task_pinchange.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_pinchange.c</FilePath>
+            </File>
+            <File>
+              <FileName>task_sampling.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_sampling.c</FilePath>
+            </File>
+            <File>
+              <FileName>task_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Apply\Task\Src\task_uart.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
